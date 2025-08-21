@@ -9,3 +9,8 @@ The code is heavily inspired from NL-Vib. Functions are edited and copied from N
 There is only on predictor method and one corrector method.
 The example used is also from the Book : Harmonic balance mehod for nonlinear vibrations.
 Aim of this code is to assist in learning coding Harmonic balance method.
+
+
+The book:
+%   M. Krack, J. Gross: Harmonic Balance for Nonlinear Vibration
+%   Problems. Springer, 2019. https://doi.org/10.1007/978-3-030-14023-6.
